@@ -11,6 +11,17 @@ An interactive web application that leverages a stateful Deep Learning LSTM neur
 
 ---
 
+## 🎓 Course Project Context
+
+This project was developed as an official academic assignment for the **Deep Learning Course** at **NED University of Engineering and Technology**.
+
+* **Supervised By:** [Sir Sajid Majeed](https://github.com/SajidMajeed92)
+* **Project Team:**
+  * [Bilal Mansoor](https://github.com/mbilalmansoor)
+  * [Aqsa Mansoor](https://github.com/AqsaMansoor32)
+
+---
+
 ## 🚀 Features
 
 * **Multi-Track Orchestration:** Generate up to 10 unique tracks in a single batch loop utilizing individualized structural seeds.

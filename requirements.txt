@@ -1,0 +1,6 @@
+tensorflow>=2.15.0
+gradio>=4.0.0
+numpy<2.0.0
+scipy
+tqdm
+git+https://github.com/aamini/introtodeeplearning.git

@@ -13,7 +13,7 @@ An interactive web application that leverages a stateful Deep Learning LSTM neur
 
 ## 🎓 Course Project Context
 
-This project was developed as an official academic assignment for the **Deep Learning Course** at **NED University of Engineering and Technology**.
+This project was developed as an official academic assignment for the PGD **Deep Learning Course** at **NED University of Engineering and Technology**.
 
 * **Supervised By:** [Sir Sajid Majeed](https://github.com/SajidMajeed92)
 * **Project Team:**
